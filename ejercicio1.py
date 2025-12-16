@@ -6,7 +6,7 @@ from tkinter import font
 ventana = tk.Tk()
 ventana.title("Ventana de Bienvenida")
 ventana.geometry("500x300")
-ventana.configure(bg="#022A4D")  
+ventana.configure(bg="#EDF2F7")  
 
 # Configurar 
 fuente_titulo = font.Font(family="Helvetica", size=24, weight="bold")
